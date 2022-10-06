@@ -60,10 +60,11 @@ def ranges():
       print(sum_squares)
   
   
-   sum = 0
-   for number in range(1,151):
-      sum = sum + number 
-    print(sum)
+      sum = 0
+      for number in range(1,151):
+        sum = sum + number 
+    
+    #print(sum)
   # For this purpose:
   
   # Create a range of values that you can iterate through in a loop
